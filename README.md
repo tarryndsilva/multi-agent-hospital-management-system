@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital AI — Multi-Agent Hospital Management System
 
 Production-oriented multi-agent AI hospital management platform.
@@ -179,3 +180,6 @@ Roles: `Admin` | `Doctor` | `Nurse` | `Receptionist`
 ## License
 
 Proprietary — all rights reserved unless otherwise specified by the project owner.
+=======
+# multi-agent-hospital-management-system
+>>>>>>> e3b13f636d3df7459a6700c683e9d4e3851dd30d
